@@ -1,0 +1,14 @@
+C:\Users\gomez\source\repos\GameForce\GameForce\bin\Debug\net8.0\GameForce.exe
+C:\Users\gomez\source\repos\GameForce\GameForce\bin\Debug\net8.0\GameForce.deps.json
+C:\Users\gomez\source\repos\GameForce\GameForce\bin\Debug\net8.0\GameForce.runtimeconfig.json
+C:\Users\gomez\source\repos\GameForce\GameForce\bin\Debug\net8.0\GameForce.dll
+C:\Users\gomez\source\repos\GameForce\GameForce\bin\Debug\net8.0\GameForce.pdb
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.AssemblyInfoInputs.cache
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.AssemblyInfo.cs
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.csproj.CoreCompileInputs.cache
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.dll
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\refint\GameForce.dll
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.pdb
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.genruntimeconfig.cache
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\ref\GameForce.dll
