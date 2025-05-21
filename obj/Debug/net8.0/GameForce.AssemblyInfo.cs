@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameForce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df757ea2e83d185c5cfbb3b515075493ea1f1753")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameForce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameForce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+[
+  {
+    "ID": 1,
+    "Name": "Counter-Strike 1.6",
+    "Genre": "Shooter/Fps/Accion",
+    "ReleaseDate": "01/11/2000",
+    "Platform": "PC",
+    "Developer": "Valve",
+    "Description": "El mejor juego shooter de la historia."
+  }
+]

@@ -1,4 +1,5 @@
 ﻿using System;
+using GameForce.Services;
 class program {
     static void Main(string[] args) {
         Menu();
@@ -22,6 +23,7 @@ class program {
     }
 
     static void Menu() {
+        Videogames videogames = new Videogames();
         Options();
         string op = Console.ReadLine() ?? "Error";
         while (op != "6" && op != "Error" && op != null)
@@ -30,35 +32,35 @@ class program {
                 {
                     case "1":
                         Console.Clear();
-                        Console.WriteLine("Ver juegos.");
+                        videogames.ShowVideogame();
                         Clean();
                         Options();
                         op = Console.ReadLine() ?? "Error";
                         break;
                     case "2":
                         Console.Clear();
-                        Console.WriteLine("Agregar juego.");
+                        videogames.AddVideogame();
                         Clean();
                         Options();
                         op = Console.ReadLine() ?? "Error";
                         break;
                     case "3":
                         Console.Clear();
-                        Console.WriteLine("Eliminar juego.");
+                        videogames.DeleteVideogame();
                         Clean();
                         Options();
                         op = Console.ReadLine() ?? "Error";
                         break;
                     case "4":
                         Console.Clear();
-                        Console.WriteLine("Modificar juego.");
+                        videogames.ModifyVideogame();
                         Clean();
                         Options();
                         op = Console.ReadLine() ?? "Error";
                         break;
                     case "5":
                         Console.Clear();
-                        Console.WriteLine("Buscar juego.");
+                        videogames.SearchVideogame();
                         Clean();
                         Options();
                         op = Console.ReadLine() ?? "Error";

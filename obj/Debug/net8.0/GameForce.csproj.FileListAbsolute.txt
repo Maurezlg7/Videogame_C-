@@ -12,3 +12,4 @@ C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\refint\GameForc
 C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.pdb
 C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.genruntimeconfig.cache
 C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\ref\GameForce.dll
+C:\Users\gomez\source\repos\GameForce\GameForce\obj\Debug\net8.0\GameForce.sourcelink.json

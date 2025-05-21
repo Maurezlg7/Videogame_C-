@@ -20,9 +20,9 @@ namespace GameForce.Interfaces
 
         //Methods
         void AddVideogame();
-        void DeleteVideogame(string name);
-        void ModifyVideogame(string Name);
-        void SearchVideogame(string name);
-        void ShowVideogame(string name);
+        void DeleteVideogame();
+        void ModifyVideogame();
+        void SearchVideogame();
+        void ShowVideogame();
     }
 }
